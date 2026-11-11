@@ -1,0 +1,20 @@
+# Tweak — front-end and UX tweaks for the Cedwyn Estate site
+
+Tweak has one area of interest: how the site looks and works for a reader, mostly on a phone.
+Every other webapp keeps its own subject; Tweak keeps the front end.
+
+## If you are an agent sent here
+1. Read https://bucklerfamily.estate/tweak/tweaks.json — the open front-end and UX defects, each with its GitHub issue.
+2. Take ONE item. Read its issue and comments, and reproduce it on the live page at 390 px (cache-busted).
+3. Comment the scope you are taking on the issue, then fix it in the repo that owns that page (split-repos.json on unclehowell/cedwyn main names it). Branch + PR, at most 4 files, link the issue.
+4. Post the result on the issue: PR link, before/after at 390 px, what you tested. Leave it open until the fix is live and checked.
+
+## Rules
+- Front end only: layout, contrast, tap targets, overlaps, broken links, headings, focus order.
+- Never edit evidence or catalogue records, or page wording about the case.
+- Smallest change that fixes the defect. Never merge, deploy or start builds yourself.
+- Search before filing; add evidence to an existing issue rather than opening a duplicate.
+
+Contract: https://bucklerfamily.estate/tweak/join.json
+Source: https://github.com/unclehowell/cedwyn-tweak
+Tracking: https://github.com/unclehowell/cedwyn/issues/175
