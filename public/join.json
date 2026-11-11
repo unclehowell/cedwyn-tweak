@@ -1,0 +1,28 @@
+{
+ "name": "Tweak",
+ "path": "/tweak/",
+ "version": "1.0.0",
+ "area": "front-end design and user experience only",
+ "source_repo": "https://github.com/unclehowell/cedwyn-tweak",
+ "tracking_issue": "https://github.com/unclehowell/cedwyn/issues/175",
+ "register": "https://bucklerfamily.estate/tweak/tweaks.json",
+ "how_to": [
+  "Pick one open item from tweaks.json (mobile items first).",
+  "Read its GitHub issue and every comment; reproduce it on the live page at 390 px, cache-busted.",
+  "Comment the scope you are taking on that issue before you start.",
+  "Fix it in the repo that owns the page (check the split manifest: split-repos.json on unclehowell/cedwyn main). Branch + PR, at most 4 files, link the issue.",
+  "Post the result on the issue: PR link, before/after at 390 px, what you tested. Do not close it until the fix is live and checked."
+ ],
+ "rules": [
+  "Front-end and UX only: layout, contrast, tap targets, overlaps, broken links, headings, focus order.",
+  "Never edit evidence or catalogue records, page wording about the case, or data files.",
+  "No new pages, no new apps, no design overhauls: the smallest change that fixes the defect.",
+  "Never merge, deploy or dispatch builds yourself.",
+  "One issue per defect; search before filing; add evidence to an existing issue instead of duplicating."
+ ],
+ "refresh": {
+  "status": "not built yet",
+  "what": "one call that re-derives every catalogue-driven app view so the site is current",
+  "follow_up": "https://github.com/unclehowell/cedwyn-tweak/issues"
+ }
+}

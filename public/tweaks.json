@@ -1,0 +1,184 @@
+{
+ "app": "tweak",
+ "version": "1.0.0",
+ "updated_at": "2026-11-11T20:40:28Z",
+ "area": "front-end design and user experience",
+ "note": "Seeded from the open UX issues on GitHub. The GitHub issue is the record; this list points at it. An item leaves this list only when its issue is closed with a verified fix.",
+ "counts": {
+  "open": 19,
+  "verified_fixes": 0
+ },
+ "items": [
+  {
+   "id": "T-001",
+   "title": "UX: \"Display settings\" and \"campus\" links use /dartboard/... but the page lives at /online/dartboard/ (404)",
+   "issue": "cedwyn#224",
+   "url": "https://github.com/unclehowell/cedwyn/issues/224",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-002",
+   "title": "UX (mobile): permanent top chrome takes about a quarter of a 390px screen before any content",
+   "issue": "cedwyn#225",
+   "url": "https://github.com/unclehowell/cedwyn/issues/225",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-003",
+   "title": "UX (mobile): floating C and ? buttons cover page content and footer links",
+   "issue": "cedwyn#226",
+   "url": "https://github.com/unclehowell/cedwyn/issues/226",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-004",
+   "title": "UX (mobile): /chess/ board is cropped at the screen edges and mostly empty dark cells",
+   "issue": "cedwyn#227",
+   "url": "https://github.com/unclehowell/cedwyn/issues/227",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-005",
+   "title": "UX: Q&A hall repeats the full institution hashtag row twice in each \"Reply received\" card",
+   "issue": "cedwyn#228",
+   "url": "https://github.com/unclehowell/cedwyn/issues/228",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-006",
+   "title": "UX: Q&A hall renders all 357 questions in one page (110k characters, about 1,100 small tap targets on mobile)",
+   "issue": "cedwyn#229",
+   "url": "https://github.com/unclehowell/cedwyn/issues/229",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-007",
+   "title": "UX: Disclosure Dartboard uses pale grey text at about 2.9:1 contrast for the legal-acts line and \"optional\" labels",
+   "issue": "cedwyn#230",
+   "url": "https://github.com/unclehowell/cedwyn/issues/230",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-008",
+   "title": "UX: 12 pages have no h1 (home, /online/, /wiki/, /research/, /docs/, /chess/, /wayback/, /csscpsg/, /online/emails/, /online/dartboard/, /infographic/)",
+   "issue": "cedwyn#231",
+   "url": "https://github.com/unclehowell/cedwyn/issues/231",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-009",
+   "title": "UX: Post Office calendar shows \"TODAY · TUE 27 OCT\" nine days after its data stopped updating",
+   "issue": "cedwyn#232",
+   "url": "https://github.com/unclehowell/cedwyn/issues/232",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-010",
+   "title": "UX: /spill/ \"For agents\" links (llms.txt, protocol.json, API, MCP) all 404",
+   "issue": "cedwyn#233",
+   "url": "https://github.com/unclehowell/cedwyn/issues/233",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-011",
+   "title": "UX: /directory/ links to library, hive, mcp and academy/FLYWHEELS resolve under /directory/ and 404",
+   "issue": "cedwyn#234",
+   "url": "https://github.com/unclehowell/cedwyn/issues/234",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-012",
+   "title": "UX (mobile): tab strips on /accounts/ and /wayback/ are cut off with no scroll cue",
+   "issue": "cedwyn#235",
+   "url": "https://github.com/unclehowell/cedwyn/issues/235",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-013",
+   "title": "UX (mobile): Old Bill double-comb chart clips the Western Ground Rents label",
+   "issue": "cedwyn#236",
+   "url": "https://github.com/unclehowell/cedwyn/issues/236",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-014",
+   "title": "UX: Analytics JSON link opens a navigation-help page instead of data",
+   "issue": "cedwyn#240",
+   "url": "https://github.com/unclehowell/cedwyn/issues/240",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-015",
+   "title": "UX: Wiki search submits a query but returns the unchanged article",
+   "issue": "cedwyn#257",
+   "url": "https://github.com/unclehowell/cedwyn/issues/257",
+   "status": "open",
+   "mobile": false,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-016",
+   "title": "UX (mobile): Explore “Back Cedwyn Estate” button is blocked and skipped by keyboard focus",
+   "issue": "cedwyn#460",
+   "url": "https://github.com/unclehowell/cedwyn/issues/460",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-017",
+   "title": "UX (mobile): Arcade game selector heading is clipped and obscured",
+   "issue": "cedwyn-arcade#1",
+   "url": "https://github.com/unclehowell/cedwyn-arcade/issues/1",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-018",
+   "title": "UX (mobile): Chessboard Square dialog overlaps the fixed header",
+   "issue": "cedwyn-chess#5",
+   "url": "https://github.com/unclehowell/cedwyn-chess/issues/5",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  },
+  {
+   "id": "T-019",
+   "title": "UX (mobile): Sudoku grid's first row is obscured by board controls",
+   "issue": "cedwyn-chess#1",
+   "url": "https://github.com/unclehowell/cedwyn-chess/issues/1",
+   "status": "open",
+   "mobile": true,
+   "source": "GitHub issue, read 2026-11-11"
+  }
+ ]
+}
