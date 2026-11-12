@@ -1,0 +1,37 @@
+{
+ "schema": "cedwyn-tweak-refresh-status/1.0",
+ "generated_at": "2026-11-12T11:12:21Z",
+ "source": {
+  "snapshot_schema": "cedwyn-webapps-refresh/1.0",
+  "snapshot_at": "2026-11-11T18:21:09Z",
+  "dry_run": true,
+  "build_action": "dry run: would dispatch build-cedwyn on main",
+  "api_status": 200
+ },
+ "catalogue": {
+  "counted_total": 1064,
+  "counted_kinds": {
+   "artifact": 25,
+   "catalogue_candidate": 7,
+   "evidence": 806,
+   "media": 128,
+   "missing_record": 86,
+   "person": 12
+  },
+  "snapshot_total_including_email": 2202,
+  "kinds_sum_matches_total": true
+ },
+ "email": {
+  "reviewed": "not measured",
+  "unreviewed": "not measured",
+  "counted": false,
+  "note": "Email-derived records are counted only once they have come through intake/review. The snapshot does not say which have, so none are counted here until the email-catalogue job reports it."
+ },
+ "not_measured": [
+  "candidates_awaiting_review",
+  "core_record_files",
+  "email.reviewed",
+  "email.unreviewed"
+ ],
+ "builds_busy": []
+}
